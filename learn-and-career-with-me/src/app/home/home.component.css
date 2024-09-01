@@ -1,0 +1,15 @@
+.preparation{
+    margin-top: 30px;
+}
+.homecontent{
+    background-color: azure;
+    border-radius: 20px;
+}
+
+.col:hover{
+  background-color: blueviolet;
+  color: azure;
+  font-size: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
